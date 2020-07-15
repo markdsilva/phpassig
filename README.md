@@ -1,1 +1,2 @@
-this code is about displaying the prime no. and database connectivity, to run this download all the files in one folder and run on localhost.
+XAMPP server is required. 
+Run the files on local machine. 
